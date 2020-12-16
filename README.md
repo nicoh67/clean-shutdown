@@ -1,3 +1,5 @@
+Modification du script on/off Shim pour jouer un son avant l'arrêt du Raspi
+
 # clean-shutdown
 
 `clean-shutdown` is a simple daemon that monitors a user-specified GPIO pin and triggers a clean software shutdown when that pin is asserted low. It offers ways to customise the behaviour of the shutdown process to fit most use-cases.
